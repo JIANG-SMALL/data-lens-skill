@@ -144,7 +144,7 @@ npx skills add JIANG-SMALL/data-lens-skill
 
 ## 🎥 演示
 
-在线预览：https://data-lens-demo-hgrll7fu.edgeone.cool
+在线预览：[https://data-lens-demo-hgrll7fu.edgeone.cool?eo_token=ebc5a2bb8ab0a291b8d9fb4eb75d6526&eo_time=1778475028](https://data-lens-demo-hgrll7fu.edgeone.cool?eo_token=ebc5a2bb8ab0a291b8d9fb4eb75d6526&eo_time=1778475028)
 
 ---
 
